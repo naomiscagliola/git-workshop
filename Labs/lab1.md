@@ -2,8 +2,8 @@
 
 - Create a new folder **lab1**
 - Initialize local git repository into **lab1** folder
-- Config global git user name
-- Config global git user email
+- Config local git user name
+- Config local git user email
 - Create a new file hello.txt
 - Write something into hello.txt file
 - Show git status
